@@ -10,8 +10,8 @@ import os
 options = Options()
 
 
-c = 0 #input("C: ")
-d = 0 #input("D: ")
+c = input("C: ")
+d = input("D: ")
 
 
 options.headless = False
